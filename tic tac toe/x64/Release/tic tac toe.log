@@ -1,0 +1,9 @@
+﻿  tic tac toe.cpp
+D:\projekty programowanie\Tic_Tak_Toe in C++\Tic_Tak_Toe-in-C--\tic tac toe\tic tac toe.cpp(26,27): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\projekty programowanie\Tic_Tak_Toe in C++\Tic_Tak_Toe-in-C--\tic tac toe\tic tac toe.cpp(26,24): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Trwa generowanie kodu
+  69 of 72 functions (95.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  tic tac toe.vcxproj -> D:\projekty programowanie\Tic_Tak_Toe in C++\Tic_Tak_Toe-in-C--\x64\Release\tic tac toe.exe
